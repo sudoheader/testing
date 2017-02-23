@@ -1,9 +1,9 @@
-first person
+1st person
 
-second person
+2nd person
 
-third person
+3rd person
 
-fourth person
+4th person
 
-fifth person
+5th person
